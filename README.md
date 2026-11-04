@@ -9,4 +9,5 @@ Platforms: TryHackMe (browser-based lab machines) Spiceworks Help Desk (ticketin
 Sessions:
    2026-06-22 - Spiceworks Cloud Help Desk setup (Spiceworks)
    2026-11-03- Linux Fundamentals part 1 (TryHackMe)
+   2026-11-04- Spiceworks Cloud Help Desk setup (Spiceworks)
 
