@@ -4,7 +4,7 @@ I'm an IT graduate (B.A. in Information Technology) working toward my first help
 
 Background: in college I built a systems administration lab in VirtualBox -- Active directory (users, OUs, Group Policy), DNS, DHCP. That lab lives on an old computer that no longer runs so I'm rebuilding my practical reps in the browser: focused exercises, not a full home lab setup.
 
-Platforms: TryHackMe (browser-based lab machines) Spiceworks Help Desk (ticketing practice)
+Platforms: TryHackMe (browser-based lab machines) Spiceworks Help Desk (ticketing practice) killercoda.com (browser-based la machines)
 
 Sessions:
    2026-06-22 - Spiceworks Cloud Help Desk setup (Spiceworks)
