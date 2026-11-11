@@ -1,0 +1,21 @@
+killercoda Linux Fundamentals lesson 2 
+
+Goal:
+learn how to use the 'man' command to look up documantation for linux commands- the manual pages built into the system.
+
+What I did:
+  - Opended the manuel page for 'man' itself with 'man man' and read through its sections: NAME, SYNOPSIS, and DESCRIPTION.
+  - Learned that the manuel is split into numbered sections (1-9): 1 is user commands, 2 system calls, 3 library functions, 4 special files, 5 file formats, 6 games, 7 miscellaneous, 8 system administration commands, 9 kernal routines.
+  - looked up a command I already know with 'man ls'.
+  - Tried a section-specific lookup with 'man 8 ls' and got no manuelentry for ls in section 8.
+  - Used 'man -f ls' to get the one-line description: ls (1) - list directory contents.
+  - Used 'man -f intro' to list the intro page for every section, then opended two of the 'man 1 intro' and 'man 8 imtro'.
+  - Finished the lesson
+
+  What I got wrong:
+  - When I ran 'man man' an error came up: can't resolve man7/groff_man.7.
+  - I first looked for 'ls' in section 8 before checking which section it's actually in - it's in section 1.
+
+  What I learned:
+    - 'man <command>' is the built-in help system - I don't have to leave the terminal 
+  
