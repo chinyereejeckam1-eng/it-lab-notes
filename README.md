@@ -10,6 +10,8 @@ Sessions:
    2026-06-22 - Spiceworks Cloud Help Desk setup (Spiceworks)
    2026-11-03- Linux Fundamentals part 1 (TryHackMe)
    2026-11-04- Spiceworks Queue Session 1 (Spiceworks)
+   2026-11-16 - Spiceworks Queue Ticket 2 (Spiceworks)
+2026-11-16 - Spiceworks Queue Ticket 3 (Spiceworks)
 2026-11-17 - VS Code setup + disk report script (PowerShell)
 
 
