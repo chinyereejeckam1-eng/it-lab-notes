@@ -17,7 +17,7 @@ Verified output, top 5 folders under my home folder:
 •  .copilot: 0.01 MB
 
 
-What I learned: how to read an error and fix the actual cause. File-not-found meant the name was wrong, and the security error meant the execution policy needed changing, not the script. Rewrite that last part in your own words if you want.
+What I learned: how to read an error and fix the actual cause. File-not-found meant the name was wrong, and the security error meant the execution policy needed changing, not the script. 
 <img width="500"  alt="image" src="https://github.com/user-attachments/assets/cbab9805-7e52-4384-a4ff-ba66a3c5277d" />
 <img width="500"  alt="image" src="https://github.com/user-attachments/assets/63b2a292-12cf-4799-a097-8d1e4a19cbf1" />
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/5848a87b-023a-4d9d-83e1-1bdcfd34f6f4" />
